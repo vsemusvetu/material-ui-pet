@@ -22,8 +22,7 @@ Welcome to my frontend portfolio! This is a stylish, playful, and developer-frie
 ---
 
 ## 🏗️ Project Structure
-
-```text
+---
     src/
     ├── components/         → Layout and reusable UI (Sidebar, Header, etc.)
     ├── pages/              → Home, Contacts, Surprise pages

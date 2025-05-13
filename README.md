@@ -23,13 +23,15 @@ Welcome to my frontend portfolio! This is a stylish, playful, and developer-frie
 
 ## 🏗️ Project Structure
 
-src/
-├── components/         → Layout and reusable UI (Sidebar, Header, etc.)
-├── pages/              → Home, Contacts, Surprise pages
-├── theme/              → Light/dark theme toggle logic
-├── App.tsx             → Main layout and routing
-├── main.tsx            → App entry point
-└── index.css           → Global styles
+```text
+    src/
+    ├── components/         → Layout and reusable UI (Sidebar, Header, etc.)
+    ├── pages/              → Home, Contacts, Surprise pages
+    ├── theme/              → Light/dark theme toggle logic
+    ├── App.tsx             → Main layout and routing
+    ├── main.tsx            → App entry point
+    └── index.css           → Global styles
+---
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +41,7 @@ src/
     - React Router DOM v6
     - Emotion (for styling)
 
-
+---
 ## 👩‍💻 About Me
 Hi! I'm Julia Badrtdinova, a frontend developer with over 5 years of experience creating beautiful, performant, and responsive web applications.
 
@@ -56,4 +58,4 @@ Hi! I'm Julia Badrtdinova, a frontend developer with over 5 years of experience 
 💬 Telegram: @vsemusvetu
 
 
-Made with ❤️, ☕, and probably too many <div>s
+Made with ❤️, ☕, and probably too many div's

@@ -53,8 +53,8 @@ Hi! I'm Julia Badrtdinova, a frontend developer with over 5 years of experience 
 🌍 Location: Montenegro
 
 📫 Email: vsemusvetu3112@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/juliya-badrtdinova
-💬 Telegram: @vsemusvetu
+🔗 LinkedIn: [JBadrtdinova](https://linkedin.com/in/juliya-badrtdinova)
+💬 Telegram: [@vsemusvetu](https://t.me/vsemusvetu)
 
 
 Made with ❤️, ☕, and probably too many div's

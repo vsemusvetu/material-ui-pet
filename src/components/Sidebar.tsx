@@ -10,11 +10,13 @@ import {
 import EmailIcon from "@mui/icons-material/Email";
 import EmojiEmotionsIcon from "@mui/icons-material/EmojiEmotions";
 import HomeIcon from "@mui/icons-material/Home";
+import TaskIcon from '@mui/icons-material/Task';
 import { Link as RouterLink } from "react-router-dom";
 
 const Sidebar: React.FC = () => {
   const navItems = [
     { to: "/", icon: <HomeIcon />, label: "Home" },
+    { to: "/project", icon: <TaskIcon />, label: "Projects" },
     { to: "/contacts", icon: <EmailIcon />, label: "Contacts" },
     { to: "/surprise", icon: <EmojiEmotionsIcon />, label: "Surprise" }
   ];
